@@ -1,0 +1,18 @@
+{
+  "name": "anakin-skywalker-bot",
+  "version": "1.0.0",
+  "description": "I have brought peace, justice, freedom and security to my new empire",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Harikrishnan",
+    "PS"
+  ],
+  "author": "Harikrishnan PS",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
