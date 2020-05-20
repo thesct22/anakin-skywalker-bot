@@ -13,7 +13,7 @@ client.on("message", msg => {
     }
 
     
-    
+    //PENDING TO BE CHANGED> DON'T JUDGE ME BASED ON THIS
     else{
         switch (msg.content) {
             case "you turned her against me": msg.channel.send("You have done that yourself.")
