@@ -16,7 +16,7 @@ client.on("message", msg => {
     //PENDING TO BE CHANGED> DON'T JUDGE ME BASED ON THIS
     else{
         switch (msg.content) {
-            case "let her go": msg.channel.send("you turned her against me")
+            case "Let her go": msg.channel.send("you turned her against me")
             break;
         
             case "You have done that yourself.": msg.channel.send("You will not take her from me!")
