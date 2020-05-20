@@ -25,7 +25,7 @@ client.on("message", msg => {
             case "Your anger and your lust for power have already done that.": msg.channel.send("Don't lecture me, Obi-Wan. I see through the lies of the Jedi.")
             msg.channel.send("I do not fear the dark side as you do. I have brought peace, freedom, justice and security to my new empire.")
             break;
-        ]
+        
             case "Your new empire?": msg.channel.send("Don't make me kill you.")
             break;
 
@@ -49,7 +49,7 @@ client.on("message", msg => {
 
             case "Bring balance to the Force.not leave it in darkness!": msg.channel.send("I hate you!")
             break;
-            
+
         }
     }
 });
