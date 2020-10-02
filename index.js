@@ -49,7 +49,9 @@ client.on("message", msg => {
 
             case "Bring balance to the Force.not leave it in darkness!": msg.channel.send("I hate you!")
             break;
-
+            
+            case "Henceforth, you shall be known as Darth Vader.":msg.channel.send("Thank you, my master.")
+            break;
         }
     }
 });
